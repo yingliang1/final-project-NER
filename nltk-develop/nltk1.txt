@@ -1,0 +1,58 @@
+ORGANIZATION, University
+GPE, California
+GPE, California
+GPE, United States
+0,0
+PERSON, Rami
+ORGANIZATION, Eid
+FACILITY, Stony Brook University
+0,0
+GPE, France
+PERSON, Christine Lagarde
+FACILITY, Wall Street Journal
+0,0
+GPE, China
+0,0
+GPE, European
+PERSON, Google
+0,0
+PERSON, Mark
+PERSON, John
+ORGANIZATION, Google
+0,0
+GPE, Leland
+PERSON, Jane Stanford
+GPE, Leland
+0,0
+PERSON, Stanford
+GPE, California
+GPE, U.S
+0,0
+0,0
+ORGANIZATION, University
+GPE, Gothenburg
+0,0
+GPE, Columbia
+ORGANIZATION, University
+0,0
+GPE, New York University
+GPE, American
+0,0
+0,0
+PERSON, Alice Jones
+ORGANIZATION, Neighborhood Builder Award
+ORGANIZATION, Bank
+GPE, America
+0,0
+ORGANIZATION, YouTube
+GPE, American
+GPE, San Bruno
+GPE, California
+0,0
+PERSON, Stephen
+PERSON, Curry
+GPE, American
+ORGANIZATION, Golden
+ORGANIZATION, National Basketball Association
+ORGANIZATION, NBA
+0,0

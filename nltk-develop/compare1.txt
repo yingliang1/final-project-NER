@@ -1,0 +1,28 @@
+University of California, ORGANIZATION
+California, LOCATION
+United States, LOCATION
+
+Rami Eid, PERSON
+Stony Brook University, ORGANIZATION
+NY, LOCATION
+
+France, LOCATION
+Christine Lagarde, PERSON
+the Wall Street Journal, ORGANIZATION
+
+China, LOCATION
+
+Europen, LOCATION
+Google, ORGANIZATION
+
+Mark, PERSON
+John, PERSON
+Google, ORGANIZATION
+
+Leland, PERSON
+Jane Stanford, PERSON
+Leland Stanford Jr., PERSON
+
+Stanford, PERSON
+California, LOCATION
+U.S., LOCATION
